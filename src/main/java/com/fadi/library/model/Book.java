@@ -1,4 +1,4 @@
-package com.example.library.model;
+package com.fadi.library.model;
 
 //import javax.persistence.Entity;
 //import javax.persistence.GeneratedValue;

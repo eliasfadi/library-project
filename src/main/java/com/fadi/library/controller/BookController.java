@@ -1,7 +1,7 @@
-package com.example.library.controller;
+package com.fadi.library.controller;
 
-import com.example.library.model.Book;
-import com.example.library.repository.BookRepository;
+import com.fadi.library.model.Book;
+import com.fadi.library.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

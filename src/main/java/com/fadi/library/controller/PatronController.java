@@ -1,7 +1,7 @@
-package com.example.library.controller;
+package com.fadi.library.controller;
 
-import com.example.library.model.Patron;
-import com.example.library.repository.PatronRepository;
+import com.fadi.library.model.Patron;
+import com.fadi.library.repository.PatronRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
